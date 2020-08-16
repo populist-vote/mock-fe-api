@@ -9,7 +9,6 @@
         {
           "id": "raceId_president",
           "name": "US President",
-          "location": "'Merica",
           "candidates": [
             {
               "id": "candidateId_vader",
@@ -59,10 +58,18 @@
           "locationAbbr": "Co",
           "candidates": [
             {
-              "id": "dfghxkljsdfgt",
-              "name": "Someone Smith",
+              "id": "candid_gardner",
+              "name": "Cory Gardner",
+              "party": "republican",
+              "isIncumbent": true,
+              "src": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm.jpeg"
+            },
+            {
+              "id": "candid_gardner",
+              "name": "John Hickenlooper",
               "party": "democrat",
-              "src": "https://api.adorable.io/avatars/200/dfghxkljsdfgt"
+              "isIncumbent": true,
+              "src": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm.jpeg"
             },
             {
               "id": "dsljkdsflkjdfskljhdfljkdf",
