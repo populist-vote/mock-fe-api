@@ -53,7 +53,7 @@
           ]
         },
         {
-          "id": "raceId",
+          "id": "raceId_usSenate",
           "name": "US Senate",
           "location": "Colorado",
           "locationAbbr": "Co",
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "id": "raceId",
+          "id": "raceId_usHouse",
           "name": "US House",
           "location": "Colorado District 2",
           "locationAbbr": "Co Dist. 2",
@@ -93,14 +93,6 @@
           ]
         }
       ],
-      "state": [
-        {
-          "id": "vbxcljkcvlkjbcvlkjcxbv",
-          "name": "Some Guy",
-          "party": "democrat",
-          "src": "https://api.adorable.io/avatars/200/vbxcljkcvlkjbcvlkjcxbv"
-        }
-      ]
     }
   },
   "presRaceTest":{
