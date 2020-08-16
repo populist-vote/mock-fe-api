@@ -4,7 +4,7 @@
     "title": "General Election",
     "description": "description text here",
     "initiatives": { "state": [], "local": [] },
-    "elections": {
+    "races": {
       "federal": [
         {
           "id": "raceId_president",
