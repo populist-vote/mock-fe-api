@@ -10,8 +10,8 @@
 			{
 			  "id": "raceId_usSenate",
 			  "name": "US Senate",
-			  "location": "Colorado",
-			  "locationAbbr": "Co",
+			  "location": "Georgia",
+			  "locationAbbr": "Ga",
 			  "candidates": [
 				{
 				  "id": "candid_perdue",
