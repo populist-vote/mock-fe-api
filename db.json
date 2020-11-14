@@ -3,33 +3,6 @@
     "date": "2020-11-03T07:00:00.000Z",
     "title": "General Election",
     "description": "description text here",
-    "initiatives": {
-      "state": [
-        {
-          "id": "initiative_id1",
-          "name": "City Requirement For Voting",
-          "issue": {
-            "name": "Suffrage",
-            "id": "suffrage_issue_id"
-          },
-          "code": "Initiative",
-          "votesFor": 4,
-          "votesAgainst": 7
-        },
-        {
-          "id": "id2",
-          "name": "Tax on Tobacco Vaping Products",
-          "issue": {
-            "name": "Taxes",
-            "id": "taxes_issue_id"
-          },
-          "code": "Initiative 2G",
-          "votesFor": 5,
-          "votesAgainst": 6
-        }
-      ],
-      "local": []
-    },
     "races": {
       "federal": [
         {
