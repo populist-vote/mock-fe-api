@@ -1,213 +1,232 @@
 {
-	"ElectionTest": {
-		"80223-1126": {
-			"date": "2021-01-05T08:00:00.000Z",
-			"title": "Georgia Senate Runoffs",
-			"description": "Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
-			"races": {
-				"federal": [{
-						"id": "raceId_usSenate",
-						"name": "US Senate",
-						"location": "Colorado",
-						"locationAbbr": "Co",
-						"candidates": [{
-								"id": "candid_perdue",
-								"name": "David Perdue",
-								"party": "republican",
-								"isIncumbent": true,
-								"src": "https://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_400x400.jpg"
-							},
-							{
-								"id": "candid_Ossof",
-								"name": "Jon Ossoff",
-								"party": "democrat",
-								"src": "https://pbs.twimg.com/profile_images/1318975769733943298/af7_OXFE_400x400.jpg"
-							}
-						]
-					},
-					{
-						"id": "raceId_usSenateSpecial",
-						"name": "US Senate - Special Election",
-						"location": "Georgia",
-						"locationAbbr": "Ga",
-						"candidates": [{
-								"id": "candid_warnock",
-								"name": "Raphael Warnock",
-								"party": "democrat",
-								"src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
-							},
-							{
-								"id": "candid_Loeffler",
-								"name": "Kelly Loeffler",
-								"party": "republican",
-								"src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
-							}
-						]
-					}
-				]
+	"election": [
+	  {
+		"id": "80223-1126",
+		"date": "2021-01-05T08:00:00.000Z",
+		"title": "Georgia Senate Runoffs",
+		"description": "Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+		"races": {
+		  "federal": [
+			{
+			  "id": "raceId_usSenate",
+			  "name": "US Senate",
+			  "location": "Colorado",
+			  "locationAbbr": "Co",
+			  "candidates": [
+				{
+				  "id": "candid_perdue",
+				  "name": "David Perdue",
+				  "party": "republican",
+				  "isIncumbent": true,
+				  "src": "https://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_400x400.jpg"
+				},
+				{
+				  "id": "candid_Ossof",
+				  "name": "Jon Ossoff",
+				  "party": "democrat",
+				  "src": "https://pbs.twimg.com/profile_images/1318975769733943298/af7_OXFE_400x400.jpg"
+				}
+			  ]
+			},
+			{
+			  "id": "raceId_usSenateSpecial",
+			  "name": "US Senate - Special Election",
+			  "location": "Georgia",
+			  "locationAbbr": "Ga",
+			  "candidates": [
+				{
+				  "id": "candid_warnock",
+				  "name": "Raphael Warnock",
+				  "party": "democrat",
+				  "src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
+				},
+				{
+				  "id": "candid_Loeffler",
+				  "name": "Kelly Loeffler",
+				  "party": "republican",
+				  "src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
+				}
+			  ]
 			}
-		},
-		"97202-5047": {
-			"date": "2020-11-03T07:00:00.000Z",
-			"title": "General Election",
-			"description": "Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
-			"races": {
-				"federal": [{
-						"id": "raceId_president",
-						"name": "US President",
-						"candidates": [{
-								"id": "candidateId_vader",
-								"name": "Darth Vader",
-								"party": "republican",
-								"isIncumbent": true,
-								"src": "https://img3.wikia.nocookie.net/__cb20130508083820/scifi/images/6/6a/DarthVader083111.jpg"
-							},
-							{
-								"id": "candidateId_dude",
-								"name": "Other Dude",
-								"party": "green",
-								"src": "https://avataaars.io/"
-							}
-						],
-						"primaries": [{
-							"id": "primaryId_democratic",
-							"name": "Democratic Primary",
-							"candidates": [{
-									"id": "candidateId_joe",
-									"name": "Joe Biden",
-									"party": "democrat",
-									"src": "https://www.listchallenges.com/f/items/11682a69-3536-4215-a820-35b7ef641529.jpg"
-								},
-								{
-									"id": "candidateId_bernie",
-									"name": "Bernie Sanders",
-									"party": "democrat",
-									"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bernie_Sanders_104th_Congress.jpg/123px-Bernie_Sanders_104th_Congress.jpg"
-								},
-								{
-									"id": "candidateId_liz",
-									"name": "Elizabeth Warren",
-									"party": "democrat",
-									"src": "https://static01.nyt.com/newsgraphics/2019/03/27/candidate-travel/0bff1801f5f42aa1ed8380affd4108e58e546164/hed_warren.png"
-								}
-							]
-						}]
-					},
-					{
-						"id": "raceId_usSenate",
-						"name": "US Senate",
-						"location": "Colorado",
-						"locationAbbr": "Co",
-						"candidates": [{
-								"id": "candid_gardner",
-								"name": "Cory Gardner",
-								"party": "republican",
-								"isIncumbent": true,
-								"src": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm.jpeg"
-							},
-							{
-								"id": "candid_Hickenlooper",
-								"name": "John Hickenlooper",
-								"party": "democrat",
-								"src": "https://pbs.twimg.com/profile_images/1164507290092703745/GKiTlTgZ_400x400.jpg"
-							},
-							{
-								"id": "dsljkdsflkjdfskljhdfljkdf",
-								"name": "Another Person",
-								"party": "libertarian",
-								"src": "https://avataaars.io/"
-							}
-						]
-					},
-					{
-						"id": "raceId_usSenateSpecial",
-						"name": "US Senate - Special Election",
-						"location": "Georgia",
-						"locationAbbr": "Ga",
-						"candidates": [{
-								"id": "candid_warnock",
-								"name": "Raphael Warnock",
-								"party": "democrat",
-								"src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
-							},
-							{
-								"id": "candid_Loeffler",
-								"name": "Kelly Loeffler",
-								"party": "republican",
-								"src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
-							}
-						]
-					},
-					{
-						"id": "raceId_usHouse",
-						"name": "US House",
-						"location": "Colorado District 2",
-						"locationAbbr": "Co Dist. 2",
-						"candidates": [{
-								"id": "dfghxkljsdfgt",
-								"name": "Someone Smith",
-								"party": "democrat",
-								"src": "https://avataaars.io/"
-							},
-							{
-								"id": "dsljkdsflkjdfskljhdfljkdf",
-								"name": "Another Person",
-								"party": "libertarian",
-								"src": "https://avataaars.io/"
-							}
-						]
-					}
-				],
-				"state": [{
-					"id": "ssdfsdfdsgfdfg",
-					"name": "Sheriff",
-					"location": "Colorado District 2",
-					"locationAbbr": "Co Dist. 2",
-					"candidates": [{
-							"id": "dgsldfgljkdfsglkjdfsg",
-							"name": "Someone Smith",
-							"party": "democrat",
-							"src": "https://avataaars.io/"
-						},
-						{
-							"id": "dfldfgldgfldfg",
-							"name": "Another Person",
-							"party": "libertarian",
-							"src": "https://avataaars.io/"
-						},
-						{
-							"id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
-							"name": "Another Person",
-							"party": "independent",
-							"src": "https://avataaars.io/"
-						},
-						{
-							"id": "dgfljkdfgslkj;lk;kl;kl",
-							"name": "Someone Smith",
-							"party": "republican",
-							"src": "https://avataaars.io/"
-						}
-					]
-				}],
-				"local": [{
-					"id": "wdf;kls;akdsdfdfgs",
-					"name": "King of the World",
-					"location": "Nether Region",
-					"candidates": [{
-							"id": "dsfg;lkdfg;lkdfg;kldfg",
-							"name": "guy",
-							"party": "democrat",
-							"src": "https://avataaars.io/"
-						},
-						{
-							"id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
-							"name": "Another Fellow",
-							"party": "libertarian",
-							"src": "https://avataaars.io/"
-						}
-					]
-				}]
-			}
+		  ]
 		}
-	}
-}
+	  },
+	  {
+		"id": "97202-5047",
+		"date": "2020-11-03T07:00:00.000Z",
+		"title": "General Election",
+		"description": "Curabitur blandit tempus porttitor. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.",
+		"races": {
+		  "federal": [
+			{
+			  "id": "raceId_president",
+			  "name": "US President",
+			  "candidates": [
+				{
+				  "id": "candidateId_vader",
+				  "name": "Darth Vader",
+				  "party": "republican",
+				  "isIncumbent": true,
+				  "src": "https://img3.wikia.nocookie.net/__cb20130508083820/scifi/images/6/6a/DarthVader083111.jpg"
+				},
+				{
+				  "id": "candidateId_dude",
+				  "name": "Other Dude",
+				  "party": "green",
+				  "src": "https://avataaars.io/"
+				}
+			  ],
+			  "primaries": [
+				{
+				  "id": "primaryId_democratic",
+				  "name": "Democratic Primary",
+				  "candidates": [
+					{
+					  "id": "candidateId_joe",
+					  "name": "Joe Biden",
+					  "party": "democrat",
+					  "src": "https://www.listchallenges.com/f/items/11682a69-3536-4215-a820-35b7ef641529.jpg"
+					},
+					{
+					  "id": "candidateId_bernie",
+					  "name": "Bernie Sanders",
+					  "party": "democrat",
+					  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bernie_Sanders_104th_Congress.jpg/123px-Bernie_Sanders_104th_Congress.jpg"
+					},
+					{
+					  "id": "candidateId_liz",
+					  "name": "Elizabeth Warren",
+					  "party": "democrat",
+					  "src": "https://static01.nyt.com/newsgraphics/2019/03/27/candidate-travel/0bff1801f5f42aa1ed8380affd4108e58e546164/hed_warren.png"
+					}
+				  ]
+				}
+			  ]
+			},
+			{
+			  "id": "raceId_usSenate",
+			  "name": "US Senate",
+			  "location": "Colorado",
+			  "locationAbbr": "Co",
+			  "candidates": [
+				{
+				  "id": "candid_gardner",
+				  "name": "Cory Gardner",
+				  "party": "republican",
+				  "isIncumbent": true,
+				  "src": "https://pbs.twimg.com/profile_images/562347582215573505/4BV0djAm.jpeg"
+				},
+				{
+				  "id": "candid_Hickenlooper",
+				  "name": "John Hickenlooper",
+				  "party": "democrat",
+				  "src": "https://pbs.twimg.com/profile_images/1164507290092703745/GKiTlTgZ_400x400.jpg"
+				},
+				{
+				  "id": "dsljkdsflkjdfskljhdfljkdf",
+				  "name": "Another Person",
+				  "party": "libertarian",
+				  "src": "https://avataaars.io/"
+				}
+			  ]
+			},
+			{
+			  "id": "raceId_usSenateSpecial",
+			  "name": "US Senate - Special Election",
+			  "location": "Georgia",
+			  "locationAbbr": "Ga",
+			  "candidates": [
+				{
+				  "id": "candid_warnock",
+				  "name": "Raphael Warnock",
+				  "party": "democrat",
+				  "src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
+				},
+				{
+				  "id": "candid_Loeffler",
+				  "name": "Kelly Loeffler",
+				  "party": "republican",
+				  "src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
+				}
+			  ]
+			},
+			{
+			  "id": "raceId_usHouse",
+			  "name": "US House",
+			  "location": "Colorado District 2",
+			  "locationAbbr": "Co Dist. 2",
+			  "candidates": [
+				{
+				  "id": "dfghxkljsdfgt",
+				  "name": "Someone Smith",
+				  "party": "democrat",
+				  "src": "https://avataaars.io/"
+				},
+				{
+				  "id": "dsljkdsflkjdfskljhdfljkdf",
+				  "name": "Another Person",
+				  "party": "libertarian",
+				  "src": "https://avataaars.io/"
+				}
+			  ]
+			}
+		  ],
+		  "state": [
+			{
+			  "id": "ssdfsdfdsgfdfg",
+			  "name": "Sheriff",
+			  "location": "Colorado District 2",
+			  "locationAbbr": "Co Dist. 2",
+			  "candidates": [
+				{
+				  "id": "dgsldfgljkdfsglkjdfsg",
+				  "name": "Someone Smith",
+				  "party": "democrat",
+				  "src": "https://avataaars.io/"
+				},
+				{
+				  "id": "dfldfgldgfldfg",
+				  "name": "Another Person",
+				  "party": "libertarian",
+				  "src": "https://avataaars.io/"
+				},
+				{
+				  "id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
+				  "name": "Another Person",
+				  "party": "independent",
+				  "src": "https://avataaars.io/"
+				},
+				{
+				  "id": "dgfljkdfgslkj;lk;kl;kl",
+				  "name": "Someone Smith",
+				  "party": "republican",
+				  "src": "https://avataaars.io/"
+				}
+			  ]
+			}
+		  ],
+		  "local": [
+			{
+			  "id": "wdf;kls;akdsdfdfgs",
+			  "name": "King of the World",
+			  "location": "Nether Region",
+			  "candidates": [
+				{
+				  "id": "dsfg;lkdfg;lkdfg;kldfg",
+				  "name": "guy",
+				  "party": "democrat",
+				  "src": "https://avataaars.io/"
+				},
+				{
+				  "id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
+				  "name": "Another Fellow",
+				  "party": "libertarian",
+				  "src": "https://avataaars.io/"
+				}
+			  ]
+			}
+		  ]
+		}
+	  }
+	]
+  }
