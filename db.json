@@ -14,7 +14,7 @@
               "name": "Darth Vader",
               "party": "republican",
               "isIncumbent": true,
-              "src": "https://cdn11.bigcommerce.com/s-2zs1uo/products/895/images/7797/DarthVaderCGStatue270x270__37511.1542136586.500.750.jpg?c=2"
+              "src": "https://img3.wikia.nocookie.net/__cb20130508083820/scifi/images/6/6a/DarthVader083111.jpg"
             },
             {
               "id": "candidateId_dude",
@@ -73,7 +73,7 @@
               "id": "dsljkdsflkjdfskljhdfljkdf",
               "name": "Another Person",
               "party": "libertarian",
-              "src": "https://api.adorable.io/avatars/200/dsljkdsflkjdfskljhdfljkdf"
+              "src": "https://avataaars.io/"
             }
           ]
         },
@@ -107,13 +107,13 @@
               "id": "dfghxkljsdfgt",
               "name": "Someone Smith",
               "party": "democrat",
-              "src": "https://api.adorable.io/avatars/200/dfghxkljsdfgt"
+              "src": "https://avataaars.io/"
             },
             {
               "id": "dsljkdsflkjdfskljhdfljkdf",
               "name": "Another Person",
               "party": "libertarian",
-              "src": "https://api.adorable.io/avatars/200/dsljkdsflkjdfskljhdfljkdf"
+              "src": "https://avataaars.io/"
             }
           ]
         }
@@ -129,25 +129,25 @@
               "id": "dgsldfgljkdfsglkjdfsg",
               "name": "Someone Smith",
               "party": "democrat",
-              "src": "https://api.adorable.io/avatars/200/dgsldfgljkdfsglkjdfsg"
+              "src": "https://avataaars.io/"
             },
             {
               "id": "dfldfgldgfldfg",
               "name": "Another Person",
               "party": "libertarian",
-              "src": "https://api.adorable.io/avatars/200/dfldfgldgfldfg"
+              "src": "https://avataaars.io/"
             },
             {
               "id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
               "name": "Another Person",
               "party": "independent",
-              "src": "https://api.adorable.io/avatars/200/dfs;jldfg;jldfg;jldfg;jdfg;d"
+              "src": "https://avataaars.io/"
             },
             {
               "id": "dgfljkdfgslkj;lk;kl;kl",
               "name": "Someone Smith",
               "party": "republican",
-              "src": "https://api.adorable.io/avatars/200/dgfljkdfgslkj;lk;kl;kl"
+              "src": "https://avataaars.io/"
             }
           ]
         }
@@ -162,13 +162,13 @@
               "id": "dsfg;lkdfg;lkdfg;kldfg",
               "name": "guy",
               "party": "democrat",
-              "src": "https://api.adorable.io/avatars/200/dsfg;lkdfg;lkdfg;kldfg"
+              "src": "https://avataaars.io/"
             },
             {
               "id": "dfs;jldfg;jldfg;jldfg;jdfg;d",
               "name": "Another Fellow",
               "party": "libertarian",
-              "src": "https://api.adorable.io/avatars/200/dfs;jldfg;jldfg;jldfg;jdfg;d"
+              "src": "https://avataaars.io/"
             }
           ]
         }
@@ -176,3 +176,4 @@
     }
   }
 }
+ 
