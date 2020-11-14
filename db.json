@@ -78,6 +78,26 @@
           ]
         },
         {
+            "id": "raceId_usSenateSpecial",
+            "name": "US Senate - Special Election",
+            "location": "Georgia",
+            "locationAbbr": "Ga",
+            "candidates": [
+              {
+                "id": "candid_warnock",
+                "name": "Raphael Warnock",
+                "party": "democrat",
+                "src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
+              },
+              {
+                "id": "candid_Loeffler",
+                "name": "Kelly Loeffler",
+                "party": "republican",
+                "src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
+              }
+            ]
+          },
+        {
           "id": "raceId_usHouse",
           "name": "US House",
           "location": "Colorado District 2",
