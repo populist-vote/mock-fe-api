@@ -14,14 +14,14 @@
 			  "locationAbbr": "Ga",
 			  "candidates": [
 				{
-				  "id": "candid_perdue",
+				  "id": "1",
 				  "name": "David Perdue",
 				  "party": "republican",
 				  "isIncumbent": true,
 				  "src": "https://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_400x400.jpg"
 				},
 				{
-				  "id": "candid_Ossof",
+				  "id": "2",
 				  "name": "Jon Ossoff",
 				  "party": "democrat",
 				  "src": "https://pbs.twimg.com/profile_images/1318975769733943298/af7_OXFE_400x400.jpg"
@@ -35,13 +35,13 @@
 			  "locationAbbr": "Ga",
 			  "candidates": [
 				{
-				  "id": "candid_warnock",
+				  "id": "4",
 				  "name": "Raphael Warnock",
 				  "party": "democrat",
 				  "src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
 				},
 				{
-				  "id": "candid_Loeffler",
+				  "id": "3",
 				  "name": "Kelly Loeffler",
 				  "party": "republican",
 				  "src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
