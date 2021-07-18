@@ -18,13 +18,13 @@
 				  "name": "David Perdue",
 				  "party": "republican",
 				  "isIncumbent": true,
-				  "src": "https://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_400x400.jpg"
+				  "src": "https://populist-static-assets.s3.amazonaws.com/images/politicians/Perdue.jpeg"
 				},
 				{
 				  "id": "2",
 				  "name": "Jon Ossoff",
 				  "party": "democrat",
-				  "src": "https://pbs.twimg.com/profile_images/1318975769733943298/af7_OXFE_400x400.jpg"
+				  "src": "https://populist-static-assets.s3.amazonaws.com/images/politicians/Ossof.jpeg"
 				}
 			  ]
 			},
@@ -38,13 +38,13 @@
 				  "id": "4",
 				  "name": "Raphael Warnock",
 				  "party": "democrat",
-				  "src": "https://pbs.twimg.com/profile_images/1222851492429864960/Qfpv35HK_400x400.jpg"
+				  "src": "https://populist-static-assets.s3.amazonaws.com/images/politicians/Warnock.jpeg"
 				},
 				{
 				  "id": "3",
 				  "name": "Kelly Loeffler",
 				  "party": "republican",
-				  "src": "https://pbs.twimg.com/profile_images/1264730662470397952/Et06MH_c_400x400.jpg"
+				  "src": "https://populist-static-assets.s3.amazonaws.com/images/politicians/Loeffler.jpeg"
 				}
 			  ]
 			}
